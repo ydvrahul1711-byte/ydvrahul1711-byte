@@ -1,6 +1,4 @@
-<!-- 🌟 GITHUB PROFILE README FOR RAHUL YADAV 🌟 -->
-
-<h1 align="center">👋 Hi, I'm Rahul Yadav</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00e5ff;">Rahul Yadav</span></h1>
 <h3 align="center">Full-Stack Learner • Developer • Problem Solver</h3>
 <p align="center"><i>"Code with logic, build with purpose."</i> 🚀</p>
 
@@ -8,73 +6,79 @@
 
 ## 🧑‍💻 About Me
 
-I’m **Rahul Yadav**, a passionate **Computer Science student & developer** interested in **software development, web technologies, and backend systems**.  
-I enjoy learning new tools, building practical projects, and continuously improving my programming skills.
+I’m **Rahul Yadav**, a passionate **Computer Science student & developer**  
+interested in **software development, web technologies, and backend systems**.
 
-I have experience with:
-- **Frontend:** HTML, CSS, Bootstrap, React
-- **Programming:** Java, Python, C, C++
-- **Backend:** Java (J2EE), PHP
-- **Databases:** MySQL, Oracle
-- **Data Tools:** NumPy, Pandas
-
-Currently exploring **web frameworks, backend development, and basic AI/ML concepts**.
-
----
-
-## 🌐 Social Links
-
-> (Add your links below)
-
-- 🌍 **LinkedIn:** 
-- 📷 **Instagram:** 
-- 📘 **Facebook:**  
-- 📧 **Email:**  
+I enjoy learning new tools, building projects, and improving everyday.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:**  
-`C` `C++` `Java` `Python` `PHP`
+### **Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge)
 
-**Frontend / UI:**  
-`HTML5` `CSS3` `Bootstrap` `React`
+### **Frontend**
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 
-**Backend:**  
-`J2EE` `PHP`
+### **Backend**
+![Java](https://img.shields.io/badge/J2EE-orange?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge)
 
-**Databases:**  
-`MySQL` `Oracle`
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
 
-**Data / Scripting:**  
-`Python` `NumPy` `Pandas`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Firebase` `Apache` `Figma` `Canva`
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
 
 ---
 
-## 🔧 Core Technology Focus
+## 🌐 Social Links
 
-I am building strong foundations in:
+> Add your account links ↓
 
-| Category        | Tools & Languages                     |
-|----------------|---------------------------------------|
-| System         | Windows                                |
-| Programming    | Java, Python                           |
-| Web Dev        | HTML5, CSS3, Bootstrap                 |
-| Frontend       | React                                  |
-| Backend        | J2EE, PHP                              |
-| Data           | Python, NumPy, Pandas                  |
-| Tools          | Git, GitHub                            |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge)](#)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge)](mailto:yourmail@gmail.com)
+
+---
+
+## 🔧 Core Focus
+
+| Category      | Skills                      |
+|--------------|-----------------------------|
+| System       | Windows                     |
+| Programming  | Java, Python                |
+| Web Dev      | HTML, CSS, Bootstrap        |
+| Frontend     | React                       |
+| Backend      | J2EE, PHP                   |
+| Data         | NumPy, Pandas               |
+| Tools        | Git, GitHub                 |
 
 ---
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` with your GitHub username
+> Replace `YOUR_USERNAME` with your GitHub username 👇
 
-```md
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+<h3 align="center">🚀 Rahul Yadav</h3>
+<p align="center"><b>Full-Stack Learner • Developer • Problem Solver</b></p>
+<p align="center"><i>"Learning, building, improving everyday."</i> 🌱</p>
