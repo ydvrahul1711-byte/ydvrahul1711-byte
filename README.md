@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00e5ff;">RAHUL</span></h1>
+<h1 align="center">👋 Hi, I'M <span style="color:#00e5ff;">RAHUL</span></h1>
 <h3 align="center">Full-Stack Learner • Developer • Problem Solver</h3>
 <p align="center"><i>"Code with logic, build with purpose."</i> 🚀</p>
 
