@@ -75,6 +75,6 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 ---
 
-<h3 align="center">🚀 Rahul Yadav</h3>
+<h3 align="center">🚀 Rahul </h3>
 <p align="center"><b>Full-Stack Learner • Developer • Problem Solver</b></p>
 <p align="center"><i>"Learning, building, improving everyday."</i> 🌱</p>
