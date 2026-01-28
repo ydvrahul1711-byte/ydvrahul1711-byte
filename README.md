@@ -47,7 +47,7 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge)](mailto:yourmail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge)](mailto:ydvrahul1711@gmail.com)
 
 ---
 
