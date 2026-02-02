@@ -67,7 +67,7 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_USERNAME` with your GitHub username 👇
+> Replace `YdvRahull17` with your GitHub username 👇
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YdvRahull17&show_icons=true&theme=tokyonight)
 
