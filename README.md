@@ -74,7 +74,10 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YdvRahull17&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YdvRahull17&theme=dark&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YdvRahull17&layout=compact&theme=tokyonight)
 
