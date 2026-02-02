@@ -45,9 +45,12 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 > Add your account links ↓
 
-[![LinkedIn](https://img.shields.io/badge/[LinkedIn-E4405F?style=for-the-badge)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge)](mailto:ydvrahul1711@gmail.com)
+## 🌐 Social Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME/)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ydvrahul1711@gmail.com)
+
 
 ---
 
