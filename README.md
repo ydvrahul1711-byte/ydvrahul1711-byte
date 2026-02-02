@@ -76,10 +76,14 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YdvRahull17&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YdvRahull17&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YdvRahull17&theme=highcontrast&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YdvRahull17&layout=compact&theme=tokyonight)
 
 
 ---
