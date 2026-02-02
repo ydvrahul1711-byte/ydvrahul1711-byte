@@ -72,9 +72,12 @@ I enjoy learning new tools, building projects, and improving everyday.
 
 > Replace `YdvRahull17` with your GitHub username 👇
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YdvRahull17&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YdvRahull17&layout=compact&theme=tokyonight)
+
 
 ---
 
